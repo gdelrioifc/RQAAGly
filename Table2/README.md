@@ -1,0 +1,1 @@
+This directory contains the supplemental data complementing Table 2 in the paper entitled "Recommended Daily Allowance of Essential Amino Acids for Humans Closely Correlates with Human’s Proteome Composition".
