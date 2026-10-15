@@ -1,1 +1,1 @@
-This directory contains the data file used to plot Figure 5 in the paper entitled "Recommended Daily Allowance of Essential Amino Acids for Humans Closely Correlates with Human’s Proteome Composition".
+This directory contains the data file used to plot Figure 5 in the paper entitled "A Meta-Analysis Reveals Whole-Proteome Composition Mirrors Human Essential Amino Acid Requirements".
