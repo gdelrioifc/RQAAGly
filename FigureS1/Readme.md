@@ -1,1 +1,1 @@
-This directory contains data, script and image reported in the work entitled "A Meta-Analysis Reveals Whole-Proteome Composition Mirrors Human Essential Amino Acid Requirements"
+This directory contains the data file, script and image used to plot Figure S1 in the paper entitled "A Meta-Analysis Reveals Whole-Proteome Composition Mirrors Human Essential Amino Acid Requirements".
