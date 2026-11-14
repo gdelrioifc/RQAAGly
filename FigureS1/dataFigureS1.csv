@@ -1,0 +1,11 @@
+Taxonomic group,Amino-acid class,Valid measurements (n),RQAA > 1 (n),RQAA > 1 (%),RQAA < 1 or = 1 (n),RQAA < 1 or = 1 (%)
+Animals,EAA,118,31,26.27,87,73.73
+Animals,non-EAA,116,32,27.59,84,72.41
+Plants,EAA,66,44,66.67,22,33.33
+Plants,non-EAA,85,69,81.18,16,18.82
+Fungi,EAA,111,42,37.84,69,62.16
+Fungi,non-EAA,130,77,59.23,53,40.77
+Bacteria,EAA,61,5,8.2,56,91.8
+Bacteria,non-EAA,47,20,42.55,27,57.45
+All taxonomic groups,EAA,356,122,34.27,234,65.73
+All taxonomic groups,non-EAA,378,198,52.38,180,47.62
