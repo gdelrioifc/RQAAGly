@@ -9,9 +9,9 @@ library(tidyverse)
 # 1. FILE PATHS
 # ============================================================
 
-input_file <- "C:/Users/sofii/OneDrive/Documentos/Figura1_RQAA/Figure 3/dataFigure3 (1).csv"
+input_file <- "dataFigure3.csv"
 
-output_dir <- "C:/Users/sofii/OneDrive/Documentos/Figura1_RQAA/Figure 3"
+output_dir <- "Your Ouput Path Here"
 
 # ============================================================
 # 2. IMPORT DATA
