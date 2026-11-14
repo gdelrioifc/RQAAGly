@@ -7,9 +7,9 @@ library(readxl)
 library(janitor)
 
 # ---- CONFIGURACION ----
-archivo_datos <- "figure1.csv"
+archivo_datos <- "dataFigure1.csv"
 hoja_excel <- 1
-carpeta_salida <- "C:/Users/sofii/OneDrive/Documentos/Figura1_RQAA/Figure 1"
+carpeta_salida <- "Your Output Path Here/"
 
 # ---- IMPORTAR DATOS ----
 if (grepl("\\.xlsx?$", archivo_datos, ignore.case = TRUE)) {
