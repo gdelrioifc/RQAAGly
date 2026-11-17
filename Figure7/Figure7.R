@@ -11,7 +11,7 @@ suppressPackageStartupMessages({
 
 # 1. File location
 
-folder <- "C:/Users/sofii/OneDrive/Documentos/Figura1_RQAA/Figura 7"
+folder <- "Your File Path Here"
 
 normal_file <- file.path(folder, "Figure7A.tsv")
 excess_file <- file.path(folder, "Figure7B.tsv")
